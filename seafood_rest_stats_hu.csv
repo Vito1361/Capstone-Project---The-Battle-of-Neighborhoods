@@ -1,0 +1,216 @@
+District,Neighborhood,ID,Name,Likes,Rating,Tips
+West,Addicks,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+West,Briar Forest,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+Northwest,Carverdale,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+Northwest,Fairbanks ,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+Northwest,Langwood,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+West,Memorial,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+Northwest,Spring Branch Central,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+Northwest,Spring Branch East,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+Northwest,Spring Branch North,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+West,Spring Branch West,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+West,Westbranch,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+West,Westchase,4c98392a05a1b1f711088c53,Eddie V's Prime Seafood,114,9.1,38
+Southwest,Fort Bend,4bb665e0941ad13af95c1fe3,Pier 36 Seafood & Oyster Bar,27,8.9,17
+West,Afton Oaks,4b42aa53f964a52074d825e3,Truluck's,222,8.8,80
+West,Afton Oaks,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+West,Afton Oaks,4cb8dc81bac937042062e07c,Eddie V's Prime Seafood,125,8.8,59
+South,Astrodome Area,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+South,Astrodome Area,4cb8dc81bac937042062e07c,Eddie V's Prime Seafood,125,8.8,59
+Southwest,Braeswood,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+Southwest,Braeswood,4cb8dc81bac937042062e07c,Eddie V's Prime Seafood,125,8.8,59
+East,Clinton Park,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+East,Denver Harbor,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+Northeast,East Houston,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+Northeast,El Dorado,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+West,Greater Uptown,4b42aa53f964a52074d825e3,Truluck's,222,8.8,80
+West,Greater Uptown,4cb8dc81bac937042062e07c,Eddie V's Prime Seafood,125,8.8,59
+West,Greater Uptown,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+Southwest,Greenway,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+Southwest,Greenway,4cb8dc81bac937042062e07c,Eddie V's Prime Seafood,125,8.8,59
+Southwest,Greenway,4b42aa53f964a52074d825e3,Truluck's,222,8.8,80
+Southwest,Gulfton,4b42aa53f964a52074d825e3,Truluck's,222,8.8,80
+Southeast,Harrisburg,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+Northeast,Hunterwood,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+East,Magnolia Park,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+Southeast,Meadowbrook,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+South,Medical Center,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+South,Medical Center,4cb8dc81bac937042062e07c,Eddie V's Prime Seafood,125,8.8,59
+Southwest,Meyerland,4b42aa53f964a52074d825e3,Truluck's,222,8.8,80
+Southwest,Meyerland,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+West,Mid-West ,4b42aa53f964a52074d825e3,Truluck's,222,8.8,80
+South,Museum Park,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+Southwest,Neartown,4cb8dc81bac937042062e07c,Eddie V's Prime Seafood,125,8.8,59
+Southwest,Neartown,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+East,Northshore,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+Southeast,Park Place,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+East,Pleasantville Area,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+Northeast,Settegast,53bb3557498e551fced0aad0,Pappadeaux Seafood Kitchen,78,8.8,8
+Southwest,Sharpstown,4b42aa53f964a52074d825e3,Truluck's,222,8.8,80
+South,South Main,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+South,South Main,4cb8dc81bac937042062e07c,Eddie V's Prime Seafood,125,8.8,59
+South,Sunnyside,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+Southwest,University Place,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+Southwest,University Place,4cb8dc81bac937042062e07c,Eddie V's Prime Seafood,125,8.8,59
+West,Washington Avenue Coalition,4cb8dc81bac937042062e07c,Eddie V's Prime Seafood,125,8.8,59
+Southwest,Willow Meadows,4b305919f964a52017f924e3,Goode Company Seafood,196,8.8,77
+Northwest,Acres Home,4c3f8c84ce54e21e5438081a,Pappadeaux Seafood Kitchen,132,8.7,40
+Northwest,Acres Home,4b915dd0f964a520a9b633e3,Pappas Seafood House,125,8.7,28
+Southwest,Alief,4b11b5faf964a520e28223e3,Pappadeaux Seafood Kitchen,131,8.7,28
+South,Astrodome Area,5babc856838e59002c0a8c8a,Eunice,17,8.7,1
+Southwest,Braeswood,5babc856838e59002c0a8c8a,Eunice,17,8.7,1
+West,Briar Forest,4b11b5faf964a520e28223e3,Pappadeaux Seafood Kitchen,131,8.7,28
+West,Briar Forest,4b6e3389f964a52049b12ce3,Pappadeaux Seafood Kitchen,237,8.7,62
+Northwest,Carverdale,4c3f8c84ce54e21e5438081a,Pappadeaux Seafood Kitchen,132,8.7,40
+Northwest,Carverdale,4b6e3389f964a52049b12ce3,Pappadeaux Seafood Kitchen,237,8.7,62
+Northwest,Central Northwest ,4c3f8c84ce54e21e5438081a,Pappadeaux Seafood Kitchen,132,8.7,40
+Southeast,Clear Lake,4bbbc31ee45295210f2755a4,Pappas Seafood House,93,8.7,21
+West,Eldridge,4b11b5faf964a520e28223e3,Pappadeaux Seafood Kitchen,131,8.7,28
+Northwest,Fairbanks ,4c3f8c84ce54e21e5438081a,Pappadeaux Seafood Kitchen,132,8.7,40
+Northwest,Fairbanks ,4b6e3389f964a52049b12ce3,Pappadeaux Seafood Kitchen,237,8.7,62
+North,Greater Greenspoint,4b915dd0f964a520a9b633e3,Pappas Seafood House,125,8.7,28
+Northwest,Greater Inwood,4c3f8c84ce54e21e5438081a,Pappadeaux Seafood Kitchen,132,8.7,40
+Northwest,Greater Inwood,4b915dd0f964a520a9b633e3,Pappas Seafood House,125,8.7,28
+Southwest,Gulfton,5babc856838e59002c0a8c8a,Eunice,17,8.7,1
+North,Hidden Valley,4b915dd0f964a520a9b633e3,Pappas Seafood House,125,8.7,28
+North,Hidden Valley,4c3f8c84ce54e21e5438081a,Pappadeaux Seafood Kitchen,132,8.7,40
+North,IAH Airport,4b915dd0f964a520a9b633e3,Pappas Seafood House,125,8.7,28
+Northwest,Langwood,4c3f8c84ce54e21e5438081a,Pappadeaux Seafood Kitchen,132,8.7,40
+Northwest,Langwood,4b6e3389f964a52049b12ce3,Pappadeaux Seafood Kitchen,237,8.7,62
+South,Medical Center,5babc856838e59002c0a8c8a,Eunice,17,8.7,1
+West,Memorial,4b6e3389f964a52049b12ce3,Pappadeaux Seafood Kitchen,237,8.7,62
+West,Memorial,4b11b5faf964a520e28223e3,Pappadeaux Seafood Kitchen,131,8.7,28
+Southwest,Meyerland,5babc856838e59002c0a8c8a,Eunice,17,8.7,1
+South,South Main,5babc856838e59002c0a8c8a,Eunice,17,8.7,1
+Northwest,Spring Branch Central,4c3f8c84ce54e21e5438081a,Pappadeaux Seafood Kitchen,132,8.7,40
+Northwest,Spring Branch Central,4b6e3389f964a52049b12ce3,Pappadeaux Seafood Kitchen,237,8.7,62
+Northwest,Spring Branch East,4b6e3389f964a52049b12ce3,Pappadeaux Seafood Kitchen,237,8.7,62
+Northwest,Spring Branch North,4b6e3389f964a52049b12ce3,Pappadeaux Seafood Kitchen,237,8.7,62
+Northwest,Spring Branch North,4c3f8c84ce54e21e5438081a,Pappadeaux Seafood Kitchen,132,8.7,40
+West,Spring Branch West,4b6e3389f964a52049b12ce3,Pappadeaux Seafood Kitchen,237,8.7,62
+West,Westbranch,4c3f8c84ce54e21e5438081a,Pappadeaux Seafood Kitchen,132,8.7,40
+West,Westbranch,4b6e3389f964a52049b12ce3,Pappadeaux Seafood Kitchen,237,8.7,62
+West,Westchase,4b11b5faf964a520e28223e3,Pappadeaux Seafood Kitchen,131,8.7,28
+Southwest,Willow Meadows,5babc856838e59002c0a8c8a,Eunice,17,8.7,1
+Northwest,Acres Home,4c96456a58d4b60c667d3929,Captain Benny's Seafood,28,8.6,16
+West,Briar Forest,4c0947f7a1b32d7fee6697f0,McCormick & Schmick's,86,8.6,28
+Northwest,Carverdale,4c0947f7a1b32d7fee6697f0,McCormick & Schmick's,86,8.6,28
+Northwest,Carverdale,4c96456a58d4b60c667d3929,Captain Benny's Seafood,28,8.6,16
+Northwest,Central Northwest ,4c96456a58d4b60c667d3929,Captain Benny's Seafood,28,8.6,16
+South,Central Southwest,4ea862660aaf6e05866cde62,TP Seafood Restaurant And Market,16,8.6,6
+Northwest,Fairbanks ,4c96456a58d4b60c667d3929,Captain Benny's Seafood,28,8.6,16
+Southeast,Golfcrest,4ea862660aaf6e05866cde62,TP Seafood Restaurant And Market,16,8.6,6
+Northeast,Greater Fifth Ward,4e7249a6b0fb9f3b35292560,Liberty Kitchen & Oyster Bar,253,8.6,75
+Southeast,Greater Hobby Area,4ea862660aaf6e05866cde62,TP Seafood Restaurant And Market,16,8.6,6
+Northwest,Greater Inwood,4c96456a58d4b60c667d3929,Captain Benny's Seafood,28,8.6,16
+Southeast,Greater OST,4ea862660aaf6e05866cde62,TP Seafood Restaurant And Market,16,8.6,6
+North,Hidden Valley,4c96456a58d4b60c667d3929,Captain Benny's Seafood,28,8.6,16
+North,Independence Heights,4e7249a6b0fb9f3b35292560,Liberty Kitchen & Oyster Bar,253,8.6,75
+North,Independence Heights,4c96456a58d4b60c667d3929,Captain Benny's Seafood,28,8.6,16
+Northeast,Jensen,4e7249a6b0fb9f3b35292560,Liberty Kitchen & Oyster Bar,253,8.6,75
+Northeast,Kashmere Gardens,4e7249a6b0fb9f3b35292560,Liberty Kitchen & Oyster Bar,253,8.6,75
+Northwest,Langwood,4c96456a58d4b60c667d3929,Captain Benny's Seafood,28,8.6,16
+West,Memorial,4c0947f7a1b32d7fee6697f0,McCormick & Schmick's,86,8.6,28
+West,Mid-West ,4b6100acf964a5207f052ae3,Pappadeaux Seafood Kitchen,176,8.6,60
+South,Minnetex,4ea862660aaf6e05866cde62,TP Seafood Restaurant And Market,16,8.6,6
+North,Northside,4c96456a58d4b60c667d3929,Captain Benny's Seafood,28,8.6,16
+North,Northside,4e7249a6b0fb9f3b35292560,Liberty Kitchen & Oyster Bar,253,8.6,75
+North,Northside Village,4e7249a6b0fb9f3b35292560,Liberty Kitchen & Oyster Bar,253,8.6,75
+Southwest,Sharpstown,4b6100acf964a5207f052ae3,Pappadeaux Seafood Kitchen,176,8.6,60
+South,South Acres,4ea862660aaf6e05866cde62,TP Seafood Restaurant And Market,16,8.6,6
+South,South Main,4ea862660aaf6e05866cde62,TP Seafood Restaurant And Market,16,8.6,6
+South,South Park,4ea862660aaf6e05866cde62,TP Seafood Restaurant And Market,16,8.6,6
+Northwest,Spring Branch Central,4c96456a58d4b60c667d3929,Captain Benny's Seafood,28,8.6,16
+Northwest,Spring Branch Central,4c0947f7a1b32d7fee6697f0,McCormick & Schmick's,86,8.6,28
+Northwest,Spring Branch East,4c0947f7a1b32d7fee6697f0,McCormick & Schmick's,86,8.6,28
+Northwest,Spring Branch North,4c0947f7a1b32d7fee6697f0,McCormick & Schmick's,86,8.6,28
+West,Spring Branch West,4c0947f7a1b32d7fee6697f0,McCormick & Schmick's,86,8.6,28
+South,Sunnyside,4ea862660aaf6e05866cde62,TP Seafood Restaurant And Market,16,8.6,6
+Northeast,Trinity,4e7249a6b0fb9f3b35292560,Liberty Kitchen & Oyster Bar,253,8.6,75
+West,Westbranch,4c0947f7a1b32d7fee6697f0,McCormick & Schmick's,86,8.6,28
+West,Westchase,4c0947f7a1b32d7fee6697f0,McCormick & Schmick's,86,8.6,28
+Northwest,Acres Home,4bd7a32e09ecb713886a477c,Mambo Seafood,26,8.5,10
+Northwest,Acres Home,5865a75365e7c70a2ff0aca4,Culichi Town,9,8.5,1
+Northwest,Carverdale,4aa33694f964a520b44320e3,Goode Company Seafood,103,8.5,32
+Northwest,Central Northwest ,4bd7a32e09ecb713886a477c,Mambo Seafood,26,8.5,10
+Northeast,East Little York,5865a75365e7c70a2ff0aca4,Culichi Town,9,8.5,1
+Northeast,East Little York,4bd7a32e09ecb713886a477c,Mambo Seafood,26,8.5,10
+Northwest,Fairbanks ,4aa33694f964a520b44320e3,Goode Company Seafood,103,8.5,32
+North,Greater Greenspoint,5865a75365e7c70a2ff0aca4,Culichi Town,9,8.5,1
+North,Greater Greenspoint,4b5cd8c9f964a520134729e3,Pappadeaux Seafood Kitchen,357,8.5,170
+Northwest,Greater Inwood,4bd7a32e09ecb713886a477c,Mambo Seafood,26,8.5,10
+North,Hidden Valley,4bd7a32e09ecb713886a477c,Mambo Seafood,26,8.5,10
+North,Hidden Valley,5865a75365e7c70a2ff0aca4,Culichi Town,9,8.5,1
+North,IAH Airport,4b5cd8c9f964a520134729e3,Pappadeaux Seafood Kitchen,357,8.5,170
+North,Independence Heights,4bd7a32e09ecb713886a477c,Mambo Seafood,26,8.5,10
+Northeast,Jensen,4bd7a32e09ecb713886a477c,Mambo Seafood,26,8.5,10
+Northeast,Jensen,5865a75365e7c70a2ff0aca4,Culichi Town,9,8.5,1
+Northwest,Langwood,4aa33694f964a520b44320e3,Goode Company Seafood,103,8.5,32
+West,Memorial,4aa33694f964a520b44320e3,Goode Company Seafood,103,8.5,32
+North,Northside,4bd7a32e09ecb713886a477c,Mambo Seafood,26,8.5,10
+Northwest,Spring Branch Central,4aa33694f964a520b44320e3,Goode Company Seafood,103,8.5,32
+Northwest,Spring Branch East,4aa33694f964a520b44320e3,Goode Company Seafood,103,8.5,32
+Northwest,Spring Branch North,4aa33694f964a520b44320e3,Goode Company Seafood,103,8.5,32
+West,Spring Branch West,4aa33694f964a520b44320e3,Goode Company Seafood,103,8.5,32
+Northeast,Trinity,5865a75365e7c70a2ff0aca4,Culichi Town,9,8.5,1
+Northeast,Trinity,4bd7a32e09ecb713886a477c,Mambo Seafood,26,8.5,10
+West,Westbranch,4aa33694f964a520b44320e3,Goode Company Seafood,103,8.5,32
+North,IAH Airport,4a8f3ba8f964a520731420e3,Pappas Seafood House,128,8.4,34
+Northeast,Kingwood,4a8f3ba8f964a520731420e3,Pappas Seafood House,128,8.4,34
+Northwest,Willowbrook,4cc8539fbe874688eec183af,Babin's Seafood House,94,8.4,18
+Southwest,Alief,55e642fc498eba4e15fdb3f2,Lotus Seafood,39,8.2,5
+West,Briar Forest,55e642fc498eba4e15fdb3f2,Lotus Seafood,39,8.2,5
+West,Eldridge,55e642fc498eba4e15fdb3f2,Lotus Seafood,39,8.2,5
+North,Greater Greenspoint,54ebc1c8498eea13cc7eed82,Cajun Fuze,12,8.2,3
+Southwest,Braeburn,4b21a7b0f964a520a43f24e3,Mambo Seafood,49,8.1,21
+Southwest,Brays Oaks ,4b21a7b0f964a520a43f24e3,Mambo Seafood,49,8.1,21
+Southwest,Fondren Gardens,53af68c5498e7d85f5283c5b,Ostionerias La Reyna,13,8.1,4
+North,Northside,5b9c3f5467f62b002c91b0eb,La Lucha,10,8.1,2
+Southwest,Westbury,4b21a7b0f964a520a43f24e3,Mambo Seafood,49,8.1,21
+Southwest,Westwood,4b21a7b0f964a520a43f24e3,Mambo Seafood,49,8.1,21
+Northwest,Acres Home,4b91ca29f964a5209ad733e3,Mambo Seafood,79,8,33
+West,Addicks,54b835f1498ecfc83e9a3433,Crawfish N More,17,8,5
+East,Clinton Park,4c6cde2cd68a9c745aef6b6b,Captain Tom's Seafood and Oyster Bar,8,8,8
+Northeast,El Dorado,4c6cde2cd68a9c745aef6b6b,Captain Tom's Seafood and Oyster Bar,8,8,8
+North,Greater Greenspoint,4b91ca29f964a5209ad733e3,Mambo Seafood,79,8,33
+North,Hidden Valley,4b91ca29f964a5209ad733e3,Mambo Seafood,79,8,33
+Northeast,Hunterwood,4c6cde2cd68a9c745aef6b6b,Captain Tom's Seafood and Oyster Bar,8,8,8
+East,Northshore,4c6cde2cd68a9c745aef6b6b,Captain Tom's Seafood and Oyster Bar,8,8,8
+South,Central Southwest,4b8810baf964a520fadc31e3,J&J Seafood,36,7.9,13
+North,Greater Greenspoint,4b678c2ff964a520c0542be3,Captain Benny's,15,7.9,8
+Northeast,Jensen,4b3975a3f964a520d75c25e3,Connie's Seafood Market & Restaurant,28,7.9,21
+Northeast,Settegast,4b3975a3f964a520d75c25e3,Connie's Seafood Market & Restaurant,28,7.9,21
+Northeast,Trinity,4b3975a3f964a520d75c25e3,Connie's Seafood Market & Restaurant,28,7.9,21
+West,Eldridge,4b5f76aff964a520dfbb29e3,Rockfish Seafood Grill,32,7.8,23
+Southwest,Fondren Gardens,4c74649cff1fb60c4c85f3a7,Lotus Seafood Market,32,7.7,16
+North,Greater Greenspoint,5005ed3ee4b02c90cb2e53ec,Capitan Seafood Kitchen,12,7.7,2
+Southwest,Westbury,4c74649cff1fb60c4c85f3a7,Lotus Seafood Market,32,7.7,16
+East,Clinton Park,4cab5b3d2776b60ca8674b0d,Mambo Seafood,31,7.6,8
+Northeast,East Houston,4cab5b3d2776b60ca8674b0d,Mambo Seafood,31,7.6,8
+Northeast,El Dorado,4cab5b3d2776b60ca8674b0d,Mambo Seafood,31,7.6,8
+Southeast,Harrisburg,4cab5b3d2776b60ca8674b0d,Mambo Seafood,31,7.6,8
+Northeast,Hunterwood,4cab5b3d2776b60ca8674b0d,Mambo Seafood,31,7.6,8
+East,Northshore,4cab5b3d2776b60ca8674b0d,Mambo Seafood,31,7.6,8
+East,Pleasantville Area,4cab5b3d2776b60ca8674b0d,Mambo Seafood,31,7.6,8
+Northeast,Settegast,4cab5b3d2776b60ca8674b0d,Mambo Seafood,31,7.6,8
+Northwest,Willowbrook,5012fb57e4b05d9dc7cb5fad,Captain Tom's Seafood Kitchen,10,7.6,3
+Northeast,El Dorado,4b6f6ac1f964a520b8ef2ce3,Captain Tom's,25,7.5,8
+North,Greater Greenspoint,5311467d11d2358d539058a7,Lotus Seafood,9,7.5,2
+North,Hidden Valley,5311467d11d2358d539058a7,Lotus Seafood,9,7.5,2
+Northeast,Hunterwood,4b6f6ac1f964a520b8ef2ce3,Captain Tom's,25,7.5,8
+East,Northshore,4b6f6ac1f964a520b8ef2ce3,Captain Tom's,25,7.5,8
+East,Clinton Park,4ef2233482310969a7db7c41,Texas Grill Seafood,7,7.3,4
+Northeast,East Houston,4ef2233482310969a7db7c41,Texas Grill Seafood,7,7.3,4
+Northeast,El Dorado,4ef2233482310969a7db7c41,Texas Grill Seafood,7,7.3,4
+Southeast,Golfcrest,594d71902be42528bc8d0e46,Casian Crawfish,8,7.3,2
+North,Greater Greenspoint,4bb68d73f562ef3bfe5e3097,Ostioneria Michoacan,24,7.3,4
+Southeast,Harrisburg,594d71902be42528bc8d0e46,Casian Crawfish,8,7.3,2
+North,Hidden Valley,4bb68d73f562ef3bfe5e3097,Ostioneria Michoacan,24,7.3,4
+Northeast,Hunterwood,4ef2233482310969a7db7c41,Texas Grill Seafood,7,7.3,4
+Southeast,Meadowbrook,594d71902be42528bc8d0e46,Casian Crawfish,8,7.3,2
+East,Northshore,4ef2233482310969a7db7c41,Texas Grill Seafood,7,7.3,4
+Southeast,Park Place,594d71902be42528bc8d0e46,Casian Crawfish,8,7.3,2
+Southeast,Pecan Park,594d71902be42528bc8d0e46,Casian Crawfish,8,7.3,2
+East,Pleasantville Area,4ef2233482310969a7db7c41,Texas Grill Seafood,7,7.3,4
+Northeast,Settegast,4ef2233482310969a7db7c41,Texas Grill Seafood,7,7.3,4
+Northeast,Hunterwood,4cd2f0384aa9f04df10d5acb,Baytown Seafood,5,7.1,2
